@@ -7,7 +7,6 @@
 MovieMitra is a full-stack movie ticket booking web application where users can browse movies, view showtimes, and book tickets seamlessly. Built using the MERN stack with real-time email notifications, secure payment integration, and role-based admin features.
 
 🔗 **Live App**: [https://moviemitra-kappa.vercel.app/](https://moviemitra-kappa.vercel.app/)  
-📁 **Backend Repo**: [GitHub - MovieMitra](https://github.com/rishitagrawal217/MovieMitra)
 
 ---
 
